@@ -140,7 +140,7 @@ POST /products
 ---
 > This is the backend part of the project.  
 > You can find the frontend here:  
-> 👉 https://github.com/tusharth111/<your-frontend-repo-link>
+> 👉 (https://github.com/tusharth111/ecom-frontend.git)
 
 
 
